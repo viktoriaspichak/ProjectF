@@ -1,0 +1,23 @@
+.icon-container {
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    padding:40px;
+}
+.react-icon-container{
+    display: flex;
+   align-items:  center;
+   margin-bottom:  10px;
+
+}
+.fa-container{
+    color: white;
+    background-color:  blueviolet ;
+    margin-right: 10px;
+    border-radius:  15%;
+
+}

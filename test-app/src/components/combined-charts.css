@@ -1,0 +1,18 @@
+
+.container{
+    padding:40px;
+}
+.react-icon-container{
+    display: flex;
+    align-items:  center;
+    margin-bottom:  10px;
+
+}
+.da-container{
+    color: white;
+    background-color:  blueviolet ;
+    margin-right: 10px;
+    border-radius:  10%;
+    padding: 12px;
+
+}

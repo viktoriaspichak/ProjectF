@@ -1,0 +1,19 @@
+.center-content {
+    display: flex;
+    align-items: center;
+   justify-content: space-between;
+    background-color: white;
+    padding: 15px 20px;
+    margin-top: 20px;
+    width: 1000px;
+
+
+
+}
+.top{
+    margin-right: 20px;
+}
+
+
+
+

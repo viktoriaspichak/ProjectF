@@ -1,0 +1,31 @@
+/* Стили для кнопки активного слайда */
+.rs-carousel-label {
+    background-color: deeppink;
+}
+.rs-carousel-label-wrapper input:checked~label{
+    background-color: black;
+}
+.centered-container {
+    display: flex;
+    flex-direction: column; /* Располагаем элементы вертикально */
+    margin-left: 41px;
+    align-items: start; /* Вертикальное центрирование */
+    width: 1000px;
+
+
+
+}
+
+.carousel-slide {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    background-color: #ffffff;
+
+}
+.fa-container{
+    color: white;
+    background-color:  blueviolet ;
+    padding: 4px;
+    border-radius: 5%;
+   }
